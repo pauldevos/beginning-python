@@ -16,4 +16,9 @@ There's a ton of databases out there from relational databases to other "NoSQL" 
 ### SQLite
 - [Dot Commands](https://sqlite.org/cli.html#special_commands_to_sqlite3_dot_commands_)
 - [Import CSV Data as a Table](https://sqlite.org/cli.html#csv_import)
+- [Export Table as CSV](https://sqlite.org/cli.html#csv_export)
+- [Full Featured SQL](https://sqlite.org/fullsql.html)
 
+#### SQLite Syntax
+- [Core Functions](https://sqlite.org/lang_corefunc.html)
+- [Aggregate Functions](https://sqlite.org/lang_aggfunc.html)
