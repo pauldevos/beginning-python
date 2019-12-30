@@ -1,5 +1,26 @@
 # beginning-python
-This will be a beginning Python course that will use basketball statistics to learn Python.
+This will be a beginning Python course that will use basketball statistics to learn Python. There will likely be 3 (maybe more) courses in total.
+- Absolute Beginner (8-12 hours)
+    - Beginning Python for Basketball
+    - Beginning SQL for Basketball
+    - Resources for next steps
+
+- Hands On! Using Python - Becoming an Intermediate Basketball Data Scientist
+    - Building Models in Notebooks
+    - Go through many libraries
+        - Pandas
+        - Numpy
+        - Sklearn
+        - Seaborn
+        - Matplotlib
+    - Regression
+    - Classifiction
+    - Clustering
+
+- Hands on Data Science - Deploying Basketball Models using Python, Sklearn, Docker, and Flask
+
+- Interactive Dashboards and 
+
 
 ## Learning Objectives
 1. Python Fundamentals
@@ -28,6 +49,9 @@ This will be a beginning Python course that will use basketball statistics to le
 11. ElasticSearch
 11. Linux (Bash, Zsh)
 12. AWS
+13. PyTest
+14. CI/CD
+15. Vagrant (VMs)
 
 ### Python Fundamentals
 
