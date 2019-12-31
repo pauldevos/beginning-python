@@ -5,7 +5,7 @@ There's a ton of databases out there from relational databases to other "NoSQL" 
 
 ### Relational Databases
 - SQLite
-- Postgres (or PostgreSQL)
+- Postgres (or PostgreSQL)x
 
 
 ### Non-Relational Databases
@@ -20,5 +20,9 @@ There's a ton of databases out there from relational databases to other "NoSQL" 
 - [Full Featured SQL](https://sqlite.org/fullsql.html)
 
 #### SQLite Syntax
+- [List of SQLite Keywords](https://sqlite.org/lang_keywords.html)
+    - It's been to try not to use these for any other reason than for the functionality given by SQLite.
 - [Core Functions](https://sqlite.org/lang_corefunc.html)
 - [Aggregate Functions](https://sqlite.org/lang_aggfunc.html)
+- [Date and Time Functions](https://sqlite.org/lang_datefunc.html)
+- [Window Functions](https://sqlite.org/windowfunctions.html)
