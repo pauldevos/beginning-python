@@ -46,6 +46,17 @@ You can type your first `dot command`
 ```
 to exit.
 
+### Installing a SQL Client (or GUI)
+There's A TON to choose from. So you can try out as many as you'd like. But for our use case we're going to use `DBeaver`. You can download it [here](https://dbeaver.io/download/).
+
+We will want the free version, which is the `Community Edition` (left column).
+
+If you don't already have Java (the JRE part) installed, you should download a version with that. So pick your appropriate link depending on your operating system.
+
+
+For Windows users, if still having problems, can find videos on [YouTube](https://www.youtube.com/watch?v=m07aJy2foNw) or Google around for installing dbeaver.
+
+
 
 
 
