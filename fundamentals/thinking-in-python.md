@@ -1,0 +1,10 @@
+### Thinking in Python
+
+If you've come from another programming language you are likely familiar with various data structures and data types. But I'm going to attempt to try to explain things as if you have no prior programming experience or it was more trivial in nature.
+
+When programming you're basically going to take "things" often called `objects` and put them into "containers" often called `data structures`. The type of objects can be complex, such as other containers, or more simple such as `data types`. Some common data types in Python are `integers` (int), `strings` (str), and `booleans` (bool). You may have a list of names or a list of numbers or perhaps a list of boolean (True/False) answers to a test.
+
+The type of container you choose will depend on a number of things. Does order matter? Can you just toss all your objects into that container and just need to call them by name? Then a `dictionary` should work. If you need to be able to pull objects from your container and order matters then a `list` is probably what you're looking for. Perhaps you don't want any duplicates and you want your items sorted when you go to retrieve them? Then a `set` may be what you want. Perhaps you want to make an ordered list of things and no one can accidently change it, that is, it's immutable. Then you may want a `tuple`. Once you get the idea of the types of data you're using, that is the types of problems you have in terms of organizing data then it's pretty straightforward. At that point you just have to know how to get things or "objects" into your containers or "data structures". 
+
+In order to get things into a container you have to create a container and there's a few rules around that. Some can be created empty and add things to it and some can't as that's part of the rules of the structure such as immutability. After you get objects into your container of choice, there's also certain ways to be able to pull objects out. And that is pretty much the "crux" of programming in Python.
+
