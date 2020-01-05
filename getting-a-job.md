@@ -18,6 +18,8 @@ You should read through 20-30 jobs that sound good to you. You should copy and p
 
 Try to find the most common desired traits, skills, responsibilities, etc. You're going to want to express your past jobs in those ways, if at all possible.
 
+Note: Possible project. Scrape jobs from Indeed, LinkedIn, JeffersonFrank, Dice, etc and parse out keywords found in articles to get an idea of popular tech skills.
+
 ### Traits Tech jobs value
 So take your list from the above exercise. I want to add some as well, they may be redundant with what you've found. So just append whatever ones you didn't already have to your list.
 - Show you are proactive with troubleshooting. You tinker with software. You download and install software, you get it working. You try new libraries (e.g. Python Flask or Sklearn) and try to build things. Employers want to know you can get "unstuck" and also bring new things to the company. IF you want to be remote, this is ESPECIALLY important. You won't have someone sitting next to you to troubleshoot what you're doing. You're going to have to solve a lot of your own "IT" problems.
