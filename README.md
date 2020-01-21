@@ -45,7 +45,7 @@ This will be a beginning Python course that will use basketball statistics to le
     - ANSI-2014 SQL
     - SQLite
     - Postgres
-    - (maybe) SQL Server
+    - (Optional for Windows users) SQL Server
 11. ElasticSearch
 11. Linux (Bash, Zsh)
 12. AWS
