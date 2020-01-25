@@ -12,6 +12,17 @@ Once you get some familiarity and confidence with any dialect of SQL you choose 
 - [LeetCode](https://leetcode.com/problemset/database/)
 - [SQLZoo](https://sqlzoo.net/)
 
+### Postgres Resources
+- [postgresqltutorial](https://www.postgresqltutorial.com/postgresql-select/)
+- [techonthenet](https://www.techonthenet.com/postgresql/index.php)
+
+### SQL Server Resources
+- [W3Schools SQL Server](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+- [Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2005/ms174318%28v%3dsql.90%29)
+- [Navigating SQL Server Management Studio](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2005/ms167593%28v%3dsql.90%29)
+
+### SQLite3 Resources
+- [SQLite Docs](https://www.sqlite.org/lang.html)
 
 
 Here's an overview of MySQL (not exhaustive) `SELECT` statement:
@@ -99,3 +110,4 @@ and with_query is:
 
 TABLE [ ONLY ] table_name [ * ]
 ```
+
