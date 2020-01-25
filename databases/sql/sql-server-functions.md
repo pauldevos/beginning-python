@@ -74,11 +74,14 @@ I list a link that leads to more info on these, you can also Google for more inf
 [Logical Functions](https://docs.microsoft.com/en-us/sql/t-sql/functions/logical-functions-iif-transact-sql?view=sql-server-ver15)
 - IIF
 
+----
 
 Other Helpful Resources:
 - [W3Schools SQL Server](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
 - [Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2005/ms174318%28v%3dsql.90%29)
 - [Navigating SQL Server Management Studio](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2005/ms167593%28v%3dsql.90%29)
+
+----
 
 Looking to test your skills? Try these:
 - [HackeRrank](https://www.hackerrank.com/domains/sql)
