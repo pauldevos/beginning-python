@@ -87,3 +87,10 @@ Looking to test your skills? Try these:
 - [HackeRrank](https://www.hackerrank.com/domains/sql)
 - [LeetCode](https://leetcode.com/problemset/database/)
 - [SQLZoo](https://sqlzoo.net/)
+
+
+---
+When you're ready for more Database stuff, as opposed to just SQL queries, here's some good resources:
+
+- [Microsoft - SQL Database Fundamentals for Data Science](https://www.youtube.com/watch?v=uGkIhx8KhbU)
+- [6 SQL Query Interview Questions](https://www.youtube.com/watch?v=uAWWhEA57bE)
